@@ -8,9 +8,9 @@ I develop different software for different tasks, here are several categories of
 
 *   🌍  I'm based in Russia - Moscow (UTC+3)
 *   ✉️  You can contact me at [rauharu@gmail.com](mailto:rauharu@gmail.com)
-*   🚀  I'm currently working on [CerSun](http://cersun.fun/)
+*   🚀  I'm currently working on [CerSun](https://cersun.fun/), [MythShell](https://t.me/mythshell_bot/) HyperCube
 *   🧠  I'm learning C++
-*   ⚡  For custom development, contact (Telegram): @mgr_rauharu
+*   ⚡  For custom development, contact: [My manager](https://t.me/mgr_rauharu/)
 
 ### Skills
 
@@ -57,3 +57,9 @@ I develop different software for different tasks, here are several categories of
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+### Goals for 2025
+
+*   🎮  100 Registrations on [CerSun](https://cersun.fun/)
+*   🛠  Realise a HyperCube Launcher & 100 Registrations
+*   🛠  Realise a MythShell & 100 Registrations
