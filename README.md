@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil (rauharu)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is rauharu
 ========================================================================================================================================
 
 I am a developer of GUI Software and server software
@@ -7,8 +7,8 @@ I am a developer of GUI Software and server software
 I develop different software for different tasks, here are several categories of tasks: Developing server software and GUI Programs (as mentioned earlier), as well as developing different micro-systems and frameworks for working with my projects, I know only 2 languages at a good level: Python (Middle Developer) and C++ (Middle Developer). For a detailed description, see below!
 
 *   🌍  I'm based in Russia - Moscow (UTC+3)
-*   ✉️  You can contact me at [rauharu@gmail.com](mailto:rauharu@gmail.com)
-*   🚀  I'm currently working on [CerSun](https://cersun.fun/), [MythShell](https://t.me/mythshell_bot/) HyperCube
+*   ✉️  You can contact me at [Telegram](https://t.me/rauharu/)
+*   🚀  I'm currently working on [MythShell](https://t.me/mythshell/)
 *   🧠  I'm learning C++
 *   ⚡  For custom development, contact: [My manager](https://t.me/mgr_rauharu/)
 
@@ -57,9 +57,3 @@ I develop different software for different tasks, here are several categories of
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 </picture>
 </a></p>
-
-### Goals for 2025
-
-*   🎮  100 Registrations on [CerSun](https://cersun.fun/)
-*   🛠  Realise a HyperCube Launcher & 100 Registrations
-*   🛠  Realise a MythShell & 100 Registrations
