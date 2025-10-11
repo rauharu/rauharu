@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a developer of GUI Software and server software
 ----------------------------------------------------
 
-I develop different software for different tasks, here are several categories of tasks: Developing server software and GUI Programs (as mentioned earlier), as well as developing different micro-systems and frameworks for working with my projects, I know only 2 languages at a good level: Python (Middle Developer) and C++ (Middle Developer). For a detailed description, see below!
+I develop different software for different tasks, here are several categories of tasks: Developing server software and GUI Programs (as mentioned earlier), as well as developing different micro-systems and frameworks for working with my projects, I know only 2 languages at a good level: Python and C++. For a detailed description, see below!
 
 *   🌍  I'm based in Russia - Moscow (UTC+3)
 *   ✉️  You can contact me at [Telegram](https://t.me/rauharu/)
