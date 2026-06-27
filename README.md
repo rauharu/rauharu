@@ -1,16 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is rauharu
+Hi! My name is rauharu, 18 years old
 ========================================================================================================================================
 
 I am a developer of GUI Software and server software
 ----------------------------------------------------
 
-I develop different software for different tasks, here are several categories of tasks: Developing server software and GUI Programs (as mentioned earlier), as well as developing different micro-systems and frameworks for working with my projects, I know only 2 languages at a good level: Python and C++. For a detailed description, see below!
+Developer of low-level desktop and server software.
+Proficient in C++ and Python, with a focus on building independent
+cross-platform solutions.
+Believes that a user's computer
+is their own property and that software
+should serve the user, not corporate interests.
 
-*   🌍  I'm based in Russia - Moscow (UTC+3)
-*   ✉️  You can contact me at [Telegram](https://t.me/rauharu/)
-*   🚀  I'm currently working on [MythShell](https://t.me/mythshell/)
-*   🧠  I'm learning C++
-*   ⚡  For custom development, contact: [My manager](https://t.me/mgr_rauharu/)
+Creator of MythShell, a fully independent
+cross-platform terminal built with C++, Vulkan, GLFW, OpenSSL, and other trusted libraries.
+Strives to improve the Linux and Windows communities
+by creating tools that help ordinary users work with their computers more simply and efficiently.
+
+### Key principles:
+1. A user's computer is exclusively their own property.
+2. Do not underestimate the work of a good programmer.
+3. Every line of code should be written with quality so that everyone can understand it.
+4. Comments in code are the key to success.
+5. Not everyone can become a programmer; do not try to become one using neural networks as your main developer.
+6. Software planning is the key to success.
+
 
 ### Skills
 
